@@ -1,0 +1,36 @@
+{
+  "place_id": "ChIJ64Y-fgRns4kRljviBUfvLbA",
+  "name": "Brian's Handyman Services LLC",
+  "phone": "(434) 409-9251",
+  "phone_digits": "4344099251",
+  "address": "31 Stubblefield Rd, Waynesboro, VA 22980, USA",
+  "rating": "0",
+  "review_count": "0",
+  "hours": [
+    "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "types": [
+    "general_contractor",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "confirmed_services": [],
+  "reviews": [],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": null,
+  "email_all": [],
+  "email_source": null
+}
